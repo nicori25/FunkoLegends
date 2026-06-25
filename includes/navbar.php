@@ -13,13 +13,13 @@
 
             <li><a href="catalogo.php">Catálogo</a></li>
 
-            <li><a href="#">Ofertas</a></li>
+            <li><a href="ofertas.php">Ofertas</a></li>
 
-            <li><a href="#">Novedades</a></li>
+            <li><a href="novedades.php">Novedades</a></li>
 
-            <li><a href="#">Nosotros</a></li>
+            <li><a href="nosotros.php">Nosotros</a></li>
 
-            <li><a href="#">Contacto</a></li>
+            <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
 
@@ -27,7 +27,7 @@
 
             <input type="text" placeholder="Buscar...">
 
-            <a href="#">❤</a>
+            <a href="favoritos.php">❤</a>
 
             <a href="login.php">👤</a>
 
